@@ -1,0 +1,12 @@
+1)shadcn/ui
+    a) npx shadcn-ui@latest init
+    b) yes
+    c) default
+    d) slate
+    e) src/globals.css
+    f) yes
+    g) tailwind.config.ts
+    9) enter
+    10) enter
+    11) yes
+    12) enter
